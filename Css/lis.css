@@ -1,0 +1,25 @@
+
+
+h3 {
+     text-align: center;
+    color: rgb(173, 33, 30);}
+p {
+    text-align: left;
+    color: rgb(173, 30, 30);
+    font-size: 120%;
+   }
+ ul {
+     list-style-type: none;
+     text-align: left;
+     color: rgb(206, 196, 52);}
+.Imglista{
+    border:1px solid black;
+    width: 40%;
+    height:auto;
+    background-color: blueviolet;
+  }
+  footer{
+    border: 0px solid black;
+    
+    background-color: azure;
+  }
